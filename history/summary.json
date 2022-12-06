@@ -4,17 +4,19 @@
     "url": "https://ig-api.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/ig-api.home.kaki87.net.ico",
     "slug": "instagram-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 584,
-    "timeWeek": 530,
-    "timeMonth": 496,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 512,
+    "timeDay": 629,
+    "timeWeek": 546,
+    "timeMonth": 502,
+    "timeYear": 512,
+    "dailyMinutesDown": {
+      "2022-12-06": 0
+    }
   }
 ]
