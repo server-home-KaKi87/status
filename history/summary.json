@@ -4,7 +4,7 @@
     "url": "https://ig-api.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/ig-api.home.kaki87.net.ico",
     "slug": "instagram-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 516,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2023-05-07": 0,
       "2023-04-19": 18,
       "2023-04-18": 82,
       "2023-04-17": 88,
