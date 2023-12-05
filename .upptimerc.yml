@@ -7,14 +7,6 @@ sites:
     url: https://netdata.home.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: Instagram API
-    url: https://ig-api.home.kaki87.net
-    expectedStatusCodes:
-      - 404
-  - name: Cloud
-    url: https://cloud.home.kaki87.net/index.php/login
-    expectedStatusCodes:
-      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
