@@ -4,7 +4,7 @@
     "url": "https://netdata.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/netdata.home.kaki87.net.ico",
     "slug": "netdata",
-    "status": "up",
+    "status": "down",
     "uptime": "95.18%",
     "uptimeDay": "92.67%",
     "uptimeWeek": "98.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1139,
     "timeYear": 1001,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-12-04": 106,
       "2023-11-18": 22,
       "2023-11-13": 1174,
