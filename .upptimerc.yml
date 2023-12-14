@@ -7,11 +7,11 @@ sites:
     url: https://netdata.home.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: 'Private service #1'
+  - name: 'Private service #1 - Discord bot'
     url: $PRIVATE_SERVICE_1_URL
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: $PRIVATE_SERVICE_1_DOWNIFMISSING
+    __dangerous__body_down_if_text_missing: '"username":"bot","discriminator":"0000","avatar":null,"status":"online"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
