@@ -19,9 +19,9 @@ status-website:
   cname: status.home.kaki87.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Home @ KaKi87 status
-  introTitle: "**Home @ KaKi87** server status"
-  introMessage: This page shows the status of the services hosted on the Home @ KaKi87 server.
+  name: "KaKi's home status"
+  introTitle: "**KaKi's home** server status"
+  introMessage: "This page shows the status of the services hosted on KaKi's home server".
   navbar:
     - title: Status
       href: /
