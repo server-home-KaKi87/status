@@ -12,7 +12,7 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: $PRIVATE_SERVICE_1_DOWNIFMISSING
-  - name: 'Private servie #2 - App'
+  - name: 'Private service #2 - App'
     url: $PRIVATE_SERVICE_2_URL
     expectedStatusCodes:
       - 200
