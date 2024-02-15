@@ -6,9 +6,9 @@
     "slug": "netdata",
     "status": "down",
     "uptime": "98.10%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.10%",
     "time": 799,
     "timeDay": 652,
@@ -16,7 +16,7 @@
     "timeMonth": 651,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2024-02-15": 0,
+      "2024-02-15": 7,
       "2023-12-13": 17,
       "2023-12-06": 17,
       "2023-12-05": 16,
@@ -56,19 +56,19 @@
     "url": "$PRIVATE_SERVICE_2_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-service-2-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 492,
-    "timeWeek": 559,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 561,
+    "timeDay": 506,
+    "timeWeek": 554,
     "timeMonth": 530,
-    "timeYear": 562,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 7
     }
   }
 ]
