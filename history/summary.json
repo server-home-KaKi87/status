@@ -4,19 +4,19 @@
     "url": "https://dashboard.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.home.kaki87.net.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "88.59%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "88.59%",
+    "status": "down",
+    "uptime": "88.64%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "88.64%",
+    "uptimeYear": "88.64%",
     "time": 2431,
     "timeDay": 5216,
     "timeWeek": 3203,
     "timeMonth": 2431,
     "timeYear": 2431,
     "dailyMinutesDown": {
-      "2024-02-26": 44,
+      "2024-02-26": 38,
       "2024-02-17": 823,
       "2024-02-16": 992
     }
@@ -48,7 +48,7 @@
     "url": "$PRIVATE_SERVICE_2_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-service-2-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +60,7 @@
     "timeMonth": 986,
     "timeYear": 782,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2024-02-17": 823,
       "2024-02-16": 991
     }
