@@ -31,6 +31,8 @@ status-website:
       href: /
     - title: About
       href: https://home.kaki87.net
+    - title: Dashboard
+      href: https://dashboard.home.kaki87.net
   theme: night
 
 assignees:
