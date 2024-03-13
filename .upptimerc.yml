@@ -7,11 +7,11 @@ sites:
     url: https://dashboard.home.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: 'Private service #1 - Discord bot'
-    url: $PRIVATE_SERVICE_1_URL
+  - name: 'Home Cinema - Discord bot'
+    url: $DISCORD_HOME_CINEMA_MONITORING_GUILD_URL
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: $PRIVATE_SERVICE_1_DOWNIFMISSING
+    __dangerous__body_down_if_text_missing: '"username":"Home Cinema"'
   - name: 'Private service #2 - App'
     url: $PRIVATE_SERVICE_2_URL
     expectedStatusCodes:
