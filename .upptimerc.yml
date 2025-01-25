@@ -28,10 +28,10 @@ sites:
     url: https://kakilo.gy
     expectedStatusCodes:
       - 200
-  - name: 'OpenVPN'
-    check: tcp-ping
-    url: kakilo.gy
-    port: 1194
+  - name: 'Speedtest tracker'
+    url: https://speedtest.home.kaki87.net
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
