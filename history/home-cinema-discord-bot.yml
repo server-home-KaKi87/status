@@ -1,7 +1,7 @@
 url: $DISCORD_HOME_CINEMA_MONITORING_GUILD_URL
-status: down
+status: up
 code: 200
-responseTime: 128
-lastUpdated: 2026-03-14T20:37:41.157Z
+responseTime: 148
+lastUpdated: 2026-03-14T20:56:20.705Z
 startTime: 2024-03-13T06:03:15.137Z
 generator: Upptime <https://github.com/upptime/upptime>
