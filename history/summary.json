@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/box.home.kaki87.net.ico",
     "slug": "box",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "78.67%",
     "uptimeYear": "97.70%",
-    "time": 1195,
-    "timeDay": 540,
-    "timeWeek": 674,
-    "timeMonth": 807,
+    "time": 1194,
+    "timeDay": 528,
+    "timeWeek": 662,
+    "timeMonth": 800,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2026-03-14": 20,
@@ -32,8 +32,7 @@
       "2025-04-09": 107,
       "2025-04-08": 69,
       "2025-03-28": 21,
-      "2025-03-22": 35,
-      "2025-03-21": 20
+      "2025-03-22": 35
     }
   },
   {
@@ -48,9 +47,9 @@
     "uptimeMonth": "78.67%",
     "uptimeYear": "97.71%",
     "time": 1130,
-    "timeDay": 882,
-    "timeWeek": 984,
-    "timeMonth": 1092,
+    "timeDay": 926,
+    "timeWeek": 979,
+    "timeMonth": 1076,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2026-03-14": 19,
@@ -70,8 +69,7 @@
       "2025-04-09": 107,
       "2025-04-08": 68,
       "2025-03-28": 21,
-      "2025-03-22": 34,
-      "2025-03-21": 19
+      "2025-03-22": 34
     }
   },
   {
@@ -80,18 +78,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.home.kaki87.net.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "69.08%",
+    "uptime": "68.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "54.26%",
-    "time": 1260,
+    "time": 1261,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1270,
+    "timeYear": 1272,
     "dailyMinutesDown": {
-      "2026-03-20": 60,
+      "2026-03-21": 56,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -261,8 +260,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 1440
+      "2025-03-22": 1440
     }
   },
   {
@@ -277,8 +275,8 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "96.67%",
     "time": 163,
-    "timeDay": 119,
-    "timeWeek": 154,
+    "timeDay": 139,
+    "timeWeek": 147,
     "timeMonth": 181,
     "timeYear": 170,
     "dailyMinutesDown": {
@@ -326,18 +324,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/assistant.home.kaki87.net.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "60.54%",
+    "uptime": "60.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "54.75%",
+    "uptimeYear": "54.47%",
     "time": 915,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 929,
+    "timeYear": 930,
     "dailyMinutesDown": {
-      "2026-03-20": 60,
+      "2026-03-21": 56,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -507,8 +506,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 216
+      "2025-03-22": 1440
     }
   },
   {
@@ -517,18 +515,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kakilo.gy.ico",
     "slug": "kakilogy",
     "status": "down",
-    "uptime": "65.70%",
+    "uptime": "65.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "58.75%",
+    "uptimeYear": "58.47%",
     "time": 2112,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 3959,
-    "timeYear": 2239,
+    "timeMonth": 4103,
+    "timeYear": 2242,
     "dailyMinutesDown": {
-      "2026-03-20": 60,
+      "2026-03-21": 56,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -686,8 +685,7 @@
       "2025-04-09": 108,
       "2025-04-08": 65,
       "2025-03-28": 19,
-      "2025-03-22": 33,
-      "2025-03-21": 18
+      "2025-03-22": 33
     }
   },
   {
@@ -696,16 +694,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.home.kaki87.net.ico",
     "slug": "speedtest-tracker",
     "status": "up",
-    "uptime": "66.37%",
+    "uptime": "66.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "78.68%",
     "uptimeYear": "61.43%",
-    "time": 4019,
-    "timeDay": 2720,
-    "timeWeek": 2840,
-    "timeMonth": 3150,
-    "timeYear": 4273,
+    "time": 4014,
+    "timeDay": 2485,
+    "timeWeek": 2779,
+    "timeMonth": 3124,
+    "timeYear": 4272,
     "dailyMinutesDown": {
       "2026-03-14": 18,
       "2026-03-02": 954,
@@ -854,8 +852,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 215
+      "2025-03-22": 1440
     }
   }
 ]
