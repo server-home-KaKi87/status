@@ -11,25 +11,21 @@ sites:
     url: https://adguard.home.kaki87.net
     expectedStatusCodes:
       - 200
-  - name: 'Dashboard'
-    url: https://dashboard.home.kaki87.net
-    expectedStatusCodes:
-      - 200
   - name: 'Home Cinema - Discord bot'
     url: $DISCORD_HOME_CINEMA_MONITORING_GUILD_URL
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"username":"Home Cinema"'
-  - name: 'Home Assistant'
-    url: https://assistant.home.kaki87.net
-    expectedStatusCodes:
-      - 200
   - name: 'kakilogy'
     url: https://kakilo.gy
     expectedStatusCodes:
       - 200
   - name: 'Speedtest tracker'
     url: https://speedtest.home.kaki87.net
+    expectedStatusCodes:
+      - 200
+  - name: 'Router'
+    url: https://router.home.kaki87.net
     expectedStatusCodes:
       - 200
 
