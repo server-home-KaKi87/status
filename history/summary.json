@@ -67,16 +67,16 @@
     "url": "$DISCORD_HOME_CINEMA_MONITORING_GUILD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-cinema-discord-bot",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.79%",
     "time": 166,
-    "timeDay": 390,
-    "timeWeek": 209,
-    "timeMonth": 153,
+    "timeDay": 286,
+    "timeWeek": 195,
+    "timeMonth": 151,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-08-10": 451,
@@ -93,7 +93,7 @@
       "2026-03-14": 19,
       "2026-04-07": 31,
       "2026-04-17": 43,
-      "2026-08-07": 0
+      "2026-08-07": 38
     }
   },
   {
