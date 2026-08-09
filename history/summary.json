@@ -4,13 +4,13 @@
     "url": "https://box.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/box.home.kaki87.net.ico",
     "slug": "box",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.79%",
-    "time": 1050,
+    "time": 1049,
     "timeDay": 818,
     "timeWeek": 777,
     "timeMonth": 675,
@@ -27,7 +27,8 @@
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1171,
-      "2026-03-14": 20
+      "2026-03-14": 20,
+      "2026-08-09": 1
     }
   },
   {
@@ -35,10 +36,10 @@
     "url": "https://adguard.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/adguard.home.kaki87.net.ico",
     "slug": "ad-guard",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.80%",
     "time": 1194,
@@ -58,7 +59,8 @@
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1171,
-      "2026-03-14": 19
+      "2026-03-14": 19,
+      "2026-08-09": 1
     }
   },
   {
@@ -66,16 +68,16 @@
     "url": "$DISCORD_HOME_CINEMA_MONITORING_GUILD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-cinema-discord-bot",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.79%",
     "time": 166,
-    "timeDay": 169,
-    "timeWeek": 201,
-    "timeMonth": 153,
+    "timeDay": 126,
+    "timeWeek": 189,
+    "timeMonth": 151,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-08-10": 451,
@@ -91,7 +93,8 @@
       "2026-03-14": 19,
       "2026-04-07": 31,
       "2026-04-17": 43,
-      "2026-08-07": 38
+      "2026-08-07": 38,
+      "2026-08-09": 1
     }
   },
   {
@@ -99,13 +102,13 @@
     "url": "https://kakilo.gy",
     "icon": "https://icons.duckduckgo.com/ip3/kakilo.gy.ico",
     "slug": "kakilogy",
-    "status": "up",
-    "uptime": "61.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.94%",
+    "status": "down",
+    "uptime": "61.39%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "38.54%",
-    "time": 2129,
+    "time": 2131,
     "timeDay": 1163,
     "timeWeek": 1201,
     "timeMonth": 1303,
@@ -339,7 +342,8 @@
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1161,
-      "2026-07-25": 904
+      "2026-07-25": 904,
+      "2026-08-09": 1
     }
   },
   {
@@ -347,13 +351,13 @@
     "url": "https://speedtest.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.home.kaki87.net.ico",
     "slug": "speedtest-tracker",
-    "status": "up",
-    "uptime": "74.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "74.89%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "65.29%",
-    "time": 4083,
+    "time": 4086,
     "timeDay": 3332,
     "timeWeek": 3313,
     "timeMonth": 3375,
@@ -490,7 +494,8 @@
       "2026-02-25": 1440,
       "2026-02-24": 1169,
       "2026-03-14": 18,
-      "2026-04-21": 200
+      "2026-04-21": 200,
+      "2026-08-09": 0
     }
   },
   {
@@ -498,9 +503,9 @@
     "url": "https://router.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/router.home.kaki87.net.ico",
     "slug": "router",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -509,6 +514,8 @@
     "timeWeek": 955,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-09": 0
+    }
   }
 ]
