@@ -4,17 +4,17 @@
     "url": "https://box.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/box.home.kaki87.net.ico",
     "slug": "box",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.79%",
-    "time": 1049,
-    "timeDay": 818,
-    "timeWeek": 777,
-    "timeMonth": 675,
-    "timeYear": 1005,
+    "time": 1048,
+    "timeDay": 801,
+    "timeWeek": 778,
+    "timeMonth": 678,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-10-18": 100,
       "2025-10-19": 1210,
@@ -28,7 +28,7 @@
       "2026-02-25": 1440,
       "2026-02-24": 1171,
       "2026-03-14": 20,
-      "2026-08-09": 1
+      "2026-08-09": 32
     }
   },
   {
@@ -36,17 +36,17 @@
     "url": "https://adguard.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/adguard.home.kaki87.net.ico",
     "slug": "ad-guard",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.80%",
-    "time": 1194,
-    "timeDay": 1597,
-    "timeWeek": 1675,
-    "timeMonth": 1430,
-    "timeYear": 1217,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "97.79%",
+    "time": 1195,
+    "timeDay": 1547,
+    "timeWeek": 1653,
+    "timeMonth": 1432,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2025-10-18": 98,
       "2025-10-19": 1165,
@@ -60,7 +60,7 @@
       "2026-02-25": 1440,
       "2026-02-24": 1171,
       "2026-03-14": 19,
-      "2026-08-09": 1
+      "2026-08-09": 31
     }
   },
   {
@@ -68,16 +68,16 @@
     "url": "$DISCORD_HOME_CINEMA_MONITORING_GUILD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-cinema-discord-bot",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.78%",
     "time": 166,
-    "timeDay": 126,
-    "timeWeek": 189,
-    "timeMonth": 151,
+    "timeDay": 140,
+    "timeWeek": 187,
+    "timeMonth": 152,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-08-10": 451,
@@ -94,7 +94,7 @@
       "2026-04-07": 31,
       "2026-04-17": 43,
       "2026-08-07": 38,
-      "2026-08-09": 1
+      "2026-08-09": 31
     }
   },
   {
@@ -102,17 +102,17 @@
     "url": "https://kakilo.gy",
     "icon": "https://icons.duckduckgo.com/ip3/kakilo.gy.ico",
     "slug": "kakilogy",
-    "status": "down",
+    "status": "up",
     "uptime": "61.39%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "38.54%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "38.53%",
     "time": 2131,
-    "timeDay": 1163,
-    "timeWeek": 1201,
-    "timeMonth": 1303,
-    "timeYear": 2501,
+    "timeDay": 1242,
+    "timeWeek": 1216,
+    "timeMonth": 1304,
+    "timeYear": 2498,
     "dailyMinutesDown": {
       "2025-10-18": 94,
       "2025-10-19": 1199,
@@ -343,7 +343,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1161,
       "2026-07-25": 904,
-      "2026-08-09": 1
+      "2026-08-09": 31
     }
   },
   {
@@ -351,17 +351,17 @@
     "url": "https://speedtest.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.home.kaki87.net.ico",
     "slug": "speedtest-tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "74.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "65.29%",
-    "time": 4086,
-    "timeDay": 3332,
-    "timeWeek": 3313,
-    "timeMonth": 3375,
-    "timeYear": 4388,
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "65.28%",
+    "time": 4085,
+    "timeDay": 2921,
+    "timeWeek": 3212,
+    "timeMonth": 3349,
+    "timeYear": 4381,
     "dailyMinutesDown": {
       "2025-10-18": 99,
       "2025-10-19": 1268,
@@ -495,7 +495,7 @@
       "2026-02-24": 1169,
       "2026-03-14": 18,
       "2026-04-21": 200,
-      "2026-08-09": 0
+      "2026-08-09": 31
     }
   },
   {
@@ -503,19 +503,19 @@
     "url": "https://router.home.kaki87.net",
     "icon": "https://icons.duckduckgo.com/ip3/router.home.kaki87.net.ico",
     "slug": "router",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 928,
-    "timeWeek": 955,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 886,
+    "timeDay": 829,
+    "timeWeek": 927,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2026-08-09": 0
+      "2026-08-09": 31
     }
   }
 ]
